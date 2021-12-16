@@ -15,7 +15,7 @@ need is ivy.jar in Ant's classpath (in your `$CLASSPATH`,
 
 ## Dependencies
 
-You will need to have Astyle installed and in your path for the
+ this is giidYou will need to have Astyle installed and in your path for the
 "format" target to work. If it's missing, that's fine. It won't affect
 any other targets.
 
